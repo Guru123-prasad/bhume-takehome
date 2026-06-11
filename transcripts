@@ -1,0 +1,13 @@
+BhuMe Take-Home AI Transcript Notes
+
+I used ChatGPT as an assistant during this assignment for:
+
+1. Understanding the BhuMe problem statement and evaluation criteria.
+2. Setting up the Python environment and dependencies.
+3. Running the starter kit and debugging installation issues.
+4. Understanding the baseline approach provided in the starter kit.
+5. Generating predictions.geojson and validating the output.
+6. Preparing the GitHub repository structure.
+7. Preparing submission materials, README, and video notes.
+
+The final code was executed locally on my machine and the predictions were generated using the submitted repository.
